@@ -1,0 +1,320 @@
+ Copyright © 2019 Wolters Kluwer Health, Inc. All rights reserved.
+C
+O
+URRENT
+PINION Corneal neurotization
+Mona Koaik and Kashif Baig
+Purpose of review
+Neurotrophic keratopathy is a devastating corneal condition that can lead to ocular morbidity and blindness.
+Current medical and surgical treatments poorly tackle the essential problem of corneal aesthesia and hence
+fail to provide a permanent cure. Recent advances in corneal neurotization techniques have shown promise to
+restore corneal nerves in neurotrophic keratopathy. This article aims at reviewing the current surgical
+advances, along with the current thoughts and evidence available for corneal nerve regeneration.
+Recent findings
+Corneal neurotization was first introduced in 2009 by Terzis et al., but recently picked up more interest
+since 2014. Direct and indirect neurotization are being developed, and different nerves (sural nerve, great
+auricular nerve) have been explored for interposition between frontal nerve branches and the cornea.
+New endoscopic techniques are introduced for less invasive approaches. On the corneal front, confocal
+microscopy and esthesiometry studies have established that the regeneration of the corneal nerves is
+happening 6 months after the procedure.
+Summary
+Neurotization is a budding revolutionary technique that shows promise of cure for neurotrophic corneas,
+but at this stage, it is still reasonably invasive and still reserved for selected patients.
+Keywords
+corneal aesthesia, corneal neurotization, neurotrophic keratopathy
+INTRODUCTION
+Normal corneal sensation is essential for corneal
+function, it initiates blink reflex in response to heat,
+evaporation and/or noxious stimuli; it also stimulates
+normal epithelial cell mitosis and migration main￾taining surface integrity [1,2]. Corneal aesthesia is a
+devastating condition as it diminishes the blink
+reflex, causes a decrease in lacrimal gland secretion,
+and induces loss of the trophic elements supplied by
+the nerves to maintain appropriate epithelial cell
+regeneration [1–5]. The denervation leads to neuro￾trophic keratitis and the corneal surface becomes
+vulnerable to persistent epithelial defect [4,6].
+Basis of corneal innervation
+The ophthalmic division of the trigeminal nerve
+(CN V) is responsible for supplying the corneal
+sensory fibers [1,2,4]. Almost 1.5% of the fibers
+exiting the trigeminal ganglion supply the cornea
+making it the most sensitive organ in the body [1].
+CN V starts in the brainstem and travels through the
+cavernous sinus into the orbit through superior
+oblique fissure. It divides into the nasociliary nerves
+which carries sensory supply to the ocular surface
+via the long ciliary nerves [1–3].
+Corneal nerves lose their myelin sheath as they
+enter through the limbus into the anterior third of
+the stroma where they start grouping into radial
+nerve bundles. The nerve fibers then penetrate Bow￾man’s layer and form the sub-basal nerve plexus just
+below the epithelium before branching out into
+a more superficial network [1,4–6]. The sub-basal
+plexus has a mixture of sensory and autonomic
+fibers [1,4–6]. The latter are speculated to carry
+trophic supply to the epithelial cells, providing a
+tight control over epithelial turnover at the limbus
+[1,6]. At the molecular levels, the corneal nerves and
+the epithelium constantly exchange neuromedia￾tors and trophic factors to maintain surface integrity
+[1,4–6].
+Cornea, Anterior Segment and Refractive Surgery Department, Univer￾sity of Ottawa Eye Institute, Ottawa, Ontario, Canada
+Correspondence to Kashif Baig, Cornea, Anterior Segment and Refrac￾tive Surgery Department, University of Ottawa Eye Institute, The Ottawa
+Hospital General Campus, 501 Smyth Road Suite W6223, Box 307,
+Ottawa, ON, Canada K1H 8L6. Tel: +1 613 746 2244;
+fax: +1 613 739 2733; e-mail: baig247@gmail.com
+Curr Opin Ophthalmol 2019, 30:292–298
+DOI:10.1097/ICU.0000000000000578
+www.co-ophthalmology.com Volume 30  Number 4  July 2019
+REVIEW
+ Copyright © 2019 Wolters Kluwer Health, Inc. All rights reserved.
+NEUROTROPHIC KERATOPATHY
+Neurotrophic keratopathy is a corneal disease occur￾ring when trigeminal innervation is impaired [1–
+3,5]. Lack of sensation is pathognomonic and leads
+to poor epithelial wound healing, recurrent epithelial
+defects, and ultimately corneal melts and perfora￾tions [5,6]. In addition to the loss of sensation, blink￾ing and reflex tear secretions are impaired,
+aggravating themechanical damage to the cornea [6].
+Cause of neurotrophic keratopathy
+Neurotrophic keratopathy is caused by damage to the
+trigeminal nerve at any location between its nucleus
+and the nerve fibers in the cornea [1,6]. The loss of
+sensory supply to the cornea initiates a cascade of
+events leading to corneal epithelial damage [1,4,6].
+Herpetic eye infections (herpes simplex and herpes
+zoster viruses) involving the CN V are the most com￾mon predisposing factors for neurotrophic corneas
+today [1,2,5]. Almost a third of patients who have
+had an ocular zoster infection tend to have persistent
+corneal hypoesthesia at 1 year after the infection [1].
+Traumatic injury to CN V and iatrogenic injury (max￾illary fracture repair, tumor resection surgeries, abla￾tive procedures for trigeminal neuralgia) are other
+common causes of neurotrophic keratopathy [1,2,5].
+Isolated damage to the long ciliary nerves can occur
+following ocular surgeries (buckle surgery, corneal
+surgeries and panretinal photocoagulation) or result￾ing from ocular burns, and toxic injuries [1–3,5,7].
+Exposure keratopathy due to concurrent facial nerve
+damage can exacerbate neurotrophic keratopathy and
+carries a worse prognosis [1,4,6,8].
+Current diagnostic and management options
+Treatment options for neurotrophic keratopathy
+depend on the clinical staging of the disease as
+described by Mackie [9]. In stage 1, the corneal
+epithelial changes are mild and are treated with
+preservative free artificial tears and ointments,
+and by addressing associated ocular surface diseases
+[1–3,5,6]. As it progresses to stage 2 with full blown
+epithelial defects with corneal swelling and anterior
+chamber reaction, treatments include therapeutic
+bandage contact lenses, serum tears, amniotic mem￾brane transplant, surgical tarsorrhaphy or chemi￾cally induced upper eyelid ptosis [1–3,6]. In stage
+3, surgical options are a necessity to maintain integ￾rity of the globe as the cornea can melt and perfo￾rate, and depending on the visual potential a
+Gunderson flap may be an option [1–3,5]. Various
+growth factors and neuropeptides (i.e. insulin￾related growth factor 1, Substance P peptide, Cen￾egermin) are being developed to reestablish the
+collaborative communication between the nerves
+and the corneal epithelium [1,2,5,10].
+CORNEAL NEUROTIZATION
+Corneal neurotization is a revolutionary surgical
+procedure in which a donor nerve graft is coapted
+to the damaged nerve. The technique relies on a
+transfer of a healthy nerve segment to the corneo￾limbal area, and reestablishing a basis for sub-basal
+plexus regeneration and hence reversal of the neuro￾trophic disease [3,8,11]. Corneal reinnervation can
+be performed by direct nerve transfers or by nerve
+graft interpositions [7,8,12].
+Anatomy of the donor nerves
+Neurotization techniques most commonly harvest
+distal branches of the frontal nerve as donor nerves
+(the smaller supratrochlear nerve and the thicker
+supraorbital nerve). Both nerves exit the orbit at the
+level of the superior orbital rim: the supraorbital
+nerve exits at its notch [11,13,14&&], whereas the
+supratrochlear nerve exits at 21 mm from midline
+between the supraorbital notch (26.5 mm from mid￾line) and the pulley of the superior oblique
+[11,13,14&&]. Both nerves tend to exit though foram￾ina in the orbital rim which can hinder their mobi￾lization during nerve transfer surgery [13].
+Because the supraorbital nerve divides again as
+soon as it comes out of the orbital rim, it can be more
+challenging to localize and dissect. But, as it has a
+greater density of myelinated nerve fibers near
+the orbital rim (almost double the axonal load of
+the supratrochlear nerve), it is thought to be a more
+robust nerve source for coaptation [13,14&&]. Due to
+the dual supply to the forehead, one of these nerves
+can be harvested without significant end organ
+morbidity [13,14&&].
+KEY POINTS
+
+Corneal neurotization is a revolutionary technique that
+can offer a potential cure to eyes with
+neurotrophic keratopathy.
+
+Corneal sensory recovery is expected at 6 months
+after procedure.
+
+Surgery is still extensive needing a
+multidisciplinary approach.
+
+Physiological mechanisms of nerve regeneration are still
+to be elucidated: direct sprouting versus
+neurotrophic stimulus.
+Corneal neurotization Koaik and Baig
+1040-8738 Copyright  2019 Wolters Kluwer Health, Inc. All rights reserved. www.co-ophthalmology.com 293
+ Copyright © 2019 Wolters Kluwer Health, Inc. All rights reserved.
+Direct neurotization
+Contralateral nerve transfer
+In 2009, Terzis et al. introduced the first neurotiza￾tion procedure to treat unilateral facial nerve palsy
+patients. They mobilized the contralateral supratro￾chlear nerve at its proximal end near the orbital rim
+and redirected it under the nasal bridge and through
+a crease blepharotomy into the conjunctiva (Fig. 1).
+The nerve’s endoneurium was opened and the fas￾cicles were separated and sutures in conjunctival
+pockets near the limbus [8]. Exposure was obtained
+using a bicoronal incision approach [8]. Six adult
+patients were treated as part of a staged procedure
+to treat facial nerve palsy. Five of the patients
+had improved corneal sensation at 6 months post￾operatively using esthesiometry grading [8].
+More recently Ting et al. [15] adopted the same
+original technique on two patients who had cerebel￾lopontine angle meningioma. Although one of the
+patients showed signs of sub-basal plexus formation
+at 2 years after the surgery on in-vivo confocalmicros￾copy (IVCM), the other patient ended up with evis￾ceration at 5 years and failure of nerve regeneration
+[15]. IVCM did show though an increased density and
+prominence of corneal nerves in both eyes that
+underwent neurotization compared with neurotro￾phic keratopathy control eyes [15].
+Ipsilateral nerve transfer
+In 2016, Jacinto et al. operated on a case of unilateral
+neurotrophic keratopathy due to ocular surgery
+and panretinal photocoagulation and they used
+a hemicoronal approach with mobilization of
+FIGURE 1. Direct Neurotization technique. The supraorbital (red line) or supratrochlear (green line) nerves are harvested at
+the orbital rim through a bi-coronal incision (blue line) and transferred (dotted lines) under the nasal bridge to the contralateral
+ocular surface. They are secured under the conjunctiva in pockets using sutures or fibrin glue (9). Same procedure has been
+reported to be done with hemi-coronal incision for ipsilateral nerves (8).
+Corneal and external disorders
+294 www.co-ophthalmology.com Volume 30  Number 4  July 2019
+ Copyright © 2019 Wolters Kluwer Health, Inc. All rights reserved.
+ipsilateral supraorbital nerve. The patient regained
+corneal sensation at 6 months when full rehabilita￾tion occurred [7]. Although using ipsilateral nerves
+decreases the risks of extensive bicoronal surgeries,
+it is only an option to be considered when only
+the long ciliary nerves are damaged [7,12]. Any
+further retrograde involvement of the trigeminal
+nerve in the disease process limits the availability
+of the frontal nerve for use. This is especially true
+in herpetic causes of neurotrophic keratopathy
+[3,16].
+Endoscopic contralateral nerve transfer
+Leyngold et al. [17,18&&] introduced a new endo￾scopic technique that attempts to transfer the
+frontal nerve branches without using a bicoronal
+approach, and thus decreasing the surgical and heal￾ing time, and lowering the risk of complications
+(alopecia, hematoma). Using smaller surgical inci￾sion to access the contralateral supraorbital nerves,
+the surgeons were able to transfer the nerve through
+an eyelid crease incision to the perilimbal conjunc￾tiva where the fascicles were separated and secured
+[17,18&&]. Although the technique is more challeng￾ing with a steeper learning curve, the outcomes
+reported in a herpes zoster patient were favorable
+at 3 months after surgery [18&&].
+Indirect neurotization
+Because direct neurotization is an extensive proce￾dure, interposition nerve grafts have gained more
+popularity since 2014 (Fig. 2). Elbaz et al. [19] intro￾duced the use of sural nerve grafts to connect to the
+contralateral supratrochlear or supraorbital nerves
+to the perilimbal region.
+FIGURE 2. Indirect Neurotization technique. The supraorbital (red line) or supratrochlear (green line) are dissected at the
+orbital rim through a sub-brow incision (blue line). A graft nerve (yellow line) is coapted to the proximal end of the nerve and
+then transferred under the nasal bridge and through another sub-brow incision (blue line) to the contralateral ocular surface. It
+is secured within conjunctival.
+Corneal neurotization Koaik and Baig
+1040-8738 Copyright  2019 Wolters Kluwer Health, Inc. All rights reserved. www.co-ophthalmology.com 295
+ Copyright © 2019 Wolters Kluwer Health, Inc. All rights reserved.
+The sural nerve is one of the most easily accessi￾ble sensory nerves for nerve grafting. It usually
+innervates the calf and foot area, and its harvest
+poses low risk of donor site morbidity
+[11,12,19,20&
+].
+Two sub-brow incision are usually made, and
+the contralateral supratrochlear or supraorbital
+nerves are dissected and then coapted to the sural
+nerve. End-to-end versus end-to-side coaptation is
+determined by the surgeon depending on the size
+and accessibility of the nerves. The sural nerve
+is tunneled under the nose bridge again, and its
+fascicles are inserted into perilimbal conjunctival
+pockets [11,12,19,20&
+].
+Initial cases of indirect neurotization described
+by Bains et al. [11] and Elbaz et al. [19] involved
+mostly pediatric patients with congenital, traumatic
+or tumor-related diseases. Weis et al. [12] in 2018
+reported the first series of adult patients who under￾went sural nerve coaptation to the contralateral
+supraorbital nerve. The pathologies involved
+herpetic eye disease, surgical trauma and acoustic
+neuromas. The surgery achieved subjective and
+objective recovery of corneal sensation at around
+6 months after surgery, and only one patient
+had recurrence of disease 17 months later, needing
+an amniotic membrane transplant to reachieve
+stability [12].
+New donor nerves
+More recently, new reports of use of the great auric￾ular nerve (GAN) as a source of sensory nerve fibers
+have emerged [21,22&
+]. GAN is a sensory nerve
+branch of the cervical plexus, and its injury usually
+causes minimal loss of sensation over the parotid
+area [21,22&
+]. In 2018, Benkhatar et al. reported one
+case in which the GAN was harvested and used an
+interposition graft. End-to-end anastomosis of the
+GAN graft to the ipsilateral supratrochlear nerve was
+done through a sub-brow incision [21]. The use of
+GAN as a graft is mostly limited to the cases that
+allow for ipsilateral nerve transfer because the
+length of the GAN (up to 7 mm) to be harvested
+can limit its use for contralateral neurotization
+[14&&,21].
+Jowett et al. reported two cases in which
+the ipsilateral GAN was harvested endoscopically
+through an infra-auricular incision and a sural nerve
+graft was coapted to the GAN and tunneled to the
+ocular surface. The nerve fascicles that were sepa￾rated were inserted in to corneo-scleral tunnels cre￾ated [22&
+]. Endoscopic GAN harvest limits extensive
+facial surgery wounds and as GAN is usually not
+affected in most conditions leading to neurotrophic
+keratopathy, its ipsilateral use is possible [22&
+].
+Corneal nerve regeneration
+Outcome measures
+Primary outcome after reinnervation was objective
+and subjective corneal sensation postoperatively.
+Most studies have reported a subjective improve￾ment at 6 months after the procedure, while corneal
+esthesiometry may lag behind [7,8,11,18&&,19].
+Cochet–Bonnet esthesiometry was the method of
+choice in older children and adults [8,12]. In chil￾dren less than 2 years of age, esthesiometry was
+replaced with surrogate measures of corneal sensa￾tion notably corneal vascularization, ocular surface
+healing and decreased fluorescein uptake [23]. Stud￾ies note a period of ocular pain and discomfort after
+the procedure that is attributed to the subjective
+sensory recovery of the neurotized cornea. This
+usually precedes the epithelial healing process
+[8,11,19].
+Evidence also suggests that only the corneal
+nerves regenerate without the normal reflex mech￾anisms involved with the trigeminal nerves. Cata￾pano et al. reported absence of the blink reflex and
+minimal effect on lacrimal gland secretion even
+after full neurotization occurs [13,24&&].
+Reinnervation physiology
+It is hypothesized that when axons are disrupted,
+Wallerian degeneration initiates a cascade of neuro￾transmitters that allow the proximal nerve ends to
+sprout again and rewire into the distal portions
+[6,12,24&&]. The nerve graft provides adequate
+Schwann cells and endoneurial support to allow
+the regeneration process to take place [6,12].
+It is known that after corneal transplants and
+refractive surgery corneal nerves recover their func￾tion over time [4,25–27]. Restoration of the stromal
+and sub-basal plexuses after corneal surgery occurs
+in a disorganized pattern that is reported to remain
+disordered up to 14 years after surgery [16,25,26,28].
+Fung et al. [20&
+] and Ting et al. [15] both reported
+evidence of disorganized reinnervation at 6 months
+after surgery using IVCM. They describe though a
+scarce sub-basal plexus in concurrently transplanted
+eyes [20&
+,27,28].
+Catapano et al. created a rat model for neuro￾trophic keratopathy to evaluate the corneal regen￾eration process taking place at 1 month after
+neurotization. They report that while there is evi￾dence of recovery of the sub-basal and stromal nerve
+layers on IVCM, these nerves are less organized than
+their normal control [24&&]. Corneal wound healing
+did occur faster in neurotized eyes compared with
+the neurotrophic keratopathy eye thus attesting
+to the trophic effect of new nerves on epithelial
+Corneal and external disorders
+296 www.co-ophthalmology.com Volume 30  Number 4  July 2019
